@@ -1,4 +1,4 @@
-Sage Equities
+# Sage Equities
 
 ## Description
 
