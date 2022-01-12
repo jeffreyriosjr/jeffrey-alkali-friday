@@ -66,3 +66,54 @@ Sage Equities
 - [ ] Header and description should display with fill out form option below
 - [ ] Full name, Email, and interest boxes should be visible and accessible for user to fill 
 Submit Button should be visible and functional for user to click and responsive to completion
+
+# About Page
+
+### Navbar 
+
+- [ ] Center Logo should be clickable and direct you to Homepage
+- [ ] Communities Title should allow user to open (4)page selection after hovering over, and list each (clickable) page: 17th Place, 918, The Cue, Cleo
+- [ ] All Pages should take you to corresponding page
+- [ ] About Title should be clickable and take user to corresponding page
+- [ ] Contact Title should be clickable and take user to corresponding page
+- [ ] Live Here Button should be clickable and take user to corresponding page, and a hover effect should change the color of button
+
+(Top Section)
+- [ ] Headers and SubHeaders  show on top and bottom to background image
+- [ ] Description of project shows 
+- [ ] Additional Live Here Button should be displayed (and functional) on bottom center of project description 
+
+(Your Communities)
+- [ ] Header “Your Communities” should display on top left
+- [ ] 4 Logo title photos of each page with logo title should be displayed on left to right layout
+- [ ] Each image should be clickable and lead to corresponding page
+- [ ] 5 Eastchester photos should be displayed on one grid  line (left to right)
+
+(The Lifestyles)
+- [ ] Header “The LIfestyles should display top left
+- [ ] Brief description should show under header with left alignment paragraph format
+- [ ] 5 artwork images should be displayed on one grid line above titles (left to right)
+
+(The Neighborhood)
+- [ ] brief description should be displayed with left alignment paragraph format
+- [ ] 5 Images should be displayed on left to right grid with titles above each
+- [ ] 3 circle logos with feature titles should be spread out over grid of images
+
+(Atlist Map)
+- [ ] Atlist Map plugin should be displaying and functional for user access
+
+(Learn More about Communities)
+
+- [ ] 4 Large images of each page should be displayed left to right 
+- [ ] Each image should have Logo Title over center of image
+- [ ] Each image should be clickable and lead to corresponding page
+
+(Instagram reference)
+- [ ] Header and anchor tag of the Eastchester Living Instagram Account should be displayed on top left 
+- [ ] 4 photos of Eastchester IG account should be displayed (left to right) 
+- [ ] Each Image should be clickable and lead to corresponding IG account page on a new tab
+(Sign-Up Newsletter)
+- [ ] Header and description should display with fill out form option below
+- [ ] Full name, Email, and interest boxes should be visible and accessible for user to fill 
+- [ ] Submit Button should be visible and functional for user to click and responsive to completion
+
