@@ -38,9 +38,9 @@
 - Latest Safari version both mobile and desktop
 - The site should be tested on most current browsers
 
-
 # Homepage
-
+- [ ] Pop-up modal should alert to very top with contact link & location attached
+- [ ] ‘X’ option should be accessible and functional to close pop-up modal 
 
 ### Navbar 
 
@@ -52,32 +52,31 @@
 - [ ] Contact Title should be clickable and take user to corresponding page
 - [ ] Live Here Button should be clickable and take user to corresponding contact sources, and a hover effect should change the color of button
 
-
 (Top Section)
 - [ ] Headers and SubHeaders  show on top and bottom to background image
 - [ ] Description of project shows 
 - [ ] Additional Live Here Button should be displayed (and functional) on bottom center of project description 
 
-
 (Your Communities)
 - [ ] 4 enlarged photos of each page with logo title should be displayed in 2 x 2 layout
 - [ ] Each image should be clickable and lead to corresponding page
-
 
 (Learn More Description)
 - [ ] Brief description about Eastchester should show
 - [ ] About Us Button should display  on bottom left of description
 - [ ] About Us Button should be functional and lead to corresponding page
 
-
 (Middle Section)
+
 - [ ] 5 Eastchester photos should be displayed on one grid  line (left to right)
 - [ ] Small Bakersfield logo should be on bottom center of 4th photo (left to right)
 
-
 (Testimonials)
+
 - [ ] Current Testimonial Posts should be displayed and moving (right to left) through functioning carousel plugin
+
 (Instagram reference)
+
 - [ ] Header and anchor tag of the Eastchester Living Instagram Account should be displayed on top left 
 - [ ] 4 photos of Eastchester IG account should be displayed (left to right) 
 - [ ] Each Image should be clickable and lead to corresponding IG account page on a new tab
@@ -87,6 +86,7 @@
 - [ ] Submit Button should be visible and functional for user to click and responsive to completion
 
 ## Footer
+
 - [ ] Footer elements are correctly aligned
 - [ ] Top center logo should be above social media icons and content
 - [ ] Social media anchor tags should be clickable and lead to the clients social media accounts on a new tab
@@ -96,6 +96,19 @@
 - [ ] Brand and privacy policy anchor tags are clickable and lead to the corresponding client contact sources 
 - [ ] Hover pointer animation occurs while hovering over anchor tags
 
+### (Firefox Browser) Issue LIst:
+- [ ] Testimonials still showing default “Lorem ipsum” posts
+- [ ] Sign-up section is not showing description or the form to fill out
+- [ ] Footer Left side is not showing logo or anchor tags 
+- [ ] Font throughout page is showing at a heavier font weight
+
+### (Chrome Browser) Issue List:
+- [ ] Testimonials still showing default “Lorem ipsum” posts
+- [ ] Sign-up section is not showing description or the form to fill out
+
+### (Safari Browser)
+- [ ] Testimonials still showing default “Lorem ipsum” posts
+- [ ] Sign-up section is not showing description or the form to fill out
 
 
 # About Page
@@ -146,8 +159,7 @@
 (Sign-Up Newsletter)
 - [ ] Header and description should display with fill out form option below
 - [ ] Full name, Email, and interest boxes should be visible and accessible for user to fill 
-- [ ]Submit Button should be visible and functional for user to click and responsive to completion
-
+- [ ] Submit Button should be visible and functional for user to click and responsive to completion
 ## Footer
 - [ ] Footer elements are correctly aligned
 - [ ] Top center logo should be above social media icons and content
@@ -157,13 +169,28 @@
 - [ ] Left-side sage equities logo should be visible above Branding anchor tags 
 - [ ] Brand and privacy policy anchor tags are clickable and lead to the corresponding client contact sources 
 - [ ] Hover pointer animation occurs while hovering over anchor tags
+## (Firefox Browser) Issue LIst:
+
+(About Page)
+- [ ] Testimonials are showing default “Lorem Ipsum” posts still
+- [ ] Sign-up section is not showing description or the form to fill out
+- [ ] Footer Left side is not showing logo or anchor tags 
+- [ ] Font throughout page is showing at a heavier font weight
+
+## (Chrome Browser) Issue List:
+- [ ] Sign-up section is not showing description or the form to fill out
+
+
+### (Safari Browser)
+- [ ]  Images above “The Lifestyles” have a delay loading while first visiting the site
+- [ ]  Footer left side logo has sage equities box smaller logo size
+- [ ] Sign-up section is not showing description or the form to fill out
 
 # 17th Place TOWNHOME
 
-### Navbar 
-
+### Navbar
 - [ ] Center Logo should be clickable and direct you to Homepage
-- [ ] Communities Title should allow user to open (4)page selection after hovering over, and list each (clickable) page: 17th Place, 918, The Cue, Cleo
+- [ ] Communities Title should allow user to open (4)page selection after hovering over, and list each (clickable) page: 17th Place, 918, The Cue,Cleo
 - [ ] All Pages should take you to corresponding page
 - [ ] About Title should be clickable and take user to corresponding page
 - [ ] Contact Title should be clickable and take user to corresponding page
@@ -199,9 +226,9 @@
 
 (AMENITIES)
 
-- [ ] 5 images should be displayed left to right grid with titles centered above each 
-- [ ] Header “AMENITIES” should display top left
-- [ ] should display bullet point-style list of AMENITIES 
+[ ] 5 images should be displayed left to right grid with titles centered above each 
+[ ] Header “AMENITIES” should display top left
+[ ] should display bullet point-style list of AMENITIES 
 
 (3D Tour)
 
@@ -223,8 +250,6 @@
 - [ ] image should be displayed center left
 - [ ] Header displayed over description 
 - [ ] brief description should be displayed with paragraph format
-
-
 
 (The Neighborhood)
 
@@ -261,7 +286,7 @@
 - [ ] Full name, Email, and interest boxes should be visible and accessible for user to fill
 - [ ] Submit Button should be visible and functional for user to click and responsive to completion
 
-## Footer
+# Footer
 - [ ] Footer elements are correctly aligned
 - [ ] Top center logo should be above social media icons and content
 - [ ] Social media anchor tags should be clickable and lead to the clients social media accounts on a new tab
@@ -271,14 +296,27 @@
 - [ ] Brand and privacy policy anchor tags are clickable and lead to the corresponding client contact sources 
 - [ ] Hover pointer animation occurs while hovering over anchor tags
 
+### (Firefox Browser) Issue List:
+- [ ]  Testimonials are showing default “Lorem Ipsum” posts still
+- [ ] Sign-up section is not showing description or the form to fill out
+- [ ] Footer Left side is not showing logo or anchor tags 
+- [ ] Font throughout page is showing at a heavier font weight
+
+### (Chrome Browser) Issue List:
+- [ ] Testimonials are showing default “Lorem Ipsum” posts still
+- [ ] Sign-up section is not showing description or the form to fill out
+
+### (Safari Browser) Issue List:
+- [ ] images above “The Space”, “Amenities”, and “Vicinity Map” have a delay loading while first visiting the site
+- [ ] testimonials shows Lorem ipsum
+- [ ] footer left side logo has sage equities box smaller
 
 
 # 918
 
-### Navbar 
-
+### Navbar
 - [ ] Center Logo should be clickable and direct you to Homepage
-- [ ] Communities Title should allow user to open (4)page selection after hovering over, and list each (clickable) page: 17th Place, 918, The Cue, Cleo
+- [ ] Communities Title should allow user to open (4)page selection after hovering over, and list each (clickable) page: 17th Place, 918, The Cue,Cleo
 - [ ] All Pages should take you to corresponding page
 - [ ] About Title should be clickable and take user to corresponding page
 - [ ] Contact Title should be clickable and take user to corresponding page
@@ -293,12 +331,10 @@
 - [ ] 2 large images should be displayed 
 
 (.918)
-
 - [ ] 918 logo should be displayed center left 
 - [ ] description of 918 is shown in single paragraph
 
 (SITE MAP)
-
 - [ ] Header “Site Map” should display center
 - [ ] Map image should be clickable and responsive with modul pop up to enlarged image
 
@@ -309,7 +345,6 @@
 - [ ] History description should display in single paragraph
 
 (Instagram reference)
-
 - [ ] Header and anchor tag of the Eastchester Living Instagram Account should be displayed on top left     
 - [ ] 4 photos of Eastchester IG account should be displayed (left to right)
 - [ ] Each Image should be clickable and lead to corresponding IG account page on a new tab
@@ -320,7 +355,7 @@
 - [ ] Full name, Email, and interest boxes should be visible and accessible for user to fill
 - [ ] Submit Button should be visible and functional for user to click and responsive to completion
 
-## Footer
+# Footer
 - [ ] Footer elements are correctly aligned
 - [ ] Top center logo should be above social media icons and content
 - [ ] Social media anchor tags should be clickable and lead to the clients social media accounts on a new tab
@@ -330,13 +365,27 @@
 - [ ] Brand and privacy policy anchor tags are clickable and lead to the corresponding client contact sources 
 - [ ] Hover pointer animation occurs while hovering over anchor tags
 
+### (Firefox Browser) Issue LIst:
+
+(918 Pge)
+- [ ] Testimonials are showing default “Lorem Ipsum” posts still
+- [ ] Sign-up section is not showing description or the form to fill out
+- [ ] Footer Left side is not showing logo or anchor tags 
+- [ ] Font throughout page is showing at a heavier font weight
+
+### (Chrome Browser) Issue List:
+- [ ] Sign-up section is not showing description or the form to fill out
+
+### (Safari Browser) Issue List:
+- [ ] Sign-up section is not showing description or the form to fill out
+- [ ] Footer left side logo has sage equities box smaller
 
 # Contact
 
-### Navbar 
+### Navbar
 
 - [ ] Center Logo should be clickable and direct you to Homepage
-- [ ] Communities Title should allow user to open (4)page selection after hovering over, and list each (clickable) page: 17th Place, 918, The Cue, Cleo
+- [ ] Communities Title should allow user to open (4)page selection after hovering over, and list each (clickable) page: 17th Place, 918, The Cue,Cleo
 - [ ] All Pages should take you to corresponding page
 - [ ] About Title should be clickable and take user to corresponding page
 - [ ] Contact Title should be clickable and take user to corresponding page
@@ -365,8 +414,7 @@
 - [ ] Full name, Email, and interest boxes should be visible and accessible for user to fill
 - [ ] Submit Button should be visible and functional for user to click and responsive to completion
 
-## Footer
-
+# Footer
 - [ ] Footer elements are correctly aligned
 - [ ] Top center logo should be above social media icons and content
 - [ ] Social media anchor tags should be clickable and lead to the clients social media accounts on a new tab
@@ -376,21 +424,31 @@
 - [ ] Brand and privacy policy anchor tags are clickable and lead to the corresponding client contact sources 
 - [ ] Hover pointer animation occurs while hovering over anchor tags
 
+### (Firefox Browser) Issue LIst:
+
+- [ ]  Testimonials are showing default “Lorem Ipsum” posts still
+- [ ] Sign-up section is not showing description or the form to fill out
+- [ ] Footer Left side is not showing logo or anchor tags 
+- [ ] Font throughout page is showing at a heavier font weight
+
+### (Chrome Browser) Issue List:
+- [ ] Sign-up section is not showing description or the form to fill out
+
+### (Safari Browser) Issue List:
+- [ ] Footer left side logo has sage equities box smaller
+
  # The Cue 
 
 ### Navbar 
 - [ ] Center Logo should be clickable and direct you to Homepage 
 - [ ] Communities Title should allow user to open (4)page selection after hovering over, and list each (clickable) page: 17th Place, 918, The Cue, Cleo 
 - [ ] All Pages should take you to corresponding page 
-
-
 - [ ] About Title should be clickable and take user to corresponding page 
 - [ ] Contact Title should be clickable and take user to corresponding page 
 - [ ] Live Here Button should be clickable and take user to corresponding page, and a hover effect should change the color of button 
 
 (Top Section) 
 - [ ] “The Cue” Logo image should display top center
-
 
 (The Cue is under construction) 
 
@@ -462,6 +520,24 @@
 - [ ] Brand and privacy policy anchor tags are clickable and lead to the corresponding client contact sources 
 - [ ] Hover pointer animation occurs while hovering over anchor tags 
 
+### (Firefox Browser) Issue LIst:
+
+(The Cue Page)
+[ ] Testimonials are showing default “Lorem Ipsum” posts still
+[ ] Sign-up section is not showing description or the form to fill out
+[ ] Footer Left side is not showing logo or anchor tags 
+[ ] Font throughout page is showing at a heavier font weight
+
+
+### (Chrome Browser) Issue List:
+[ ] Sign-up section is not showing description or the form to fill out
+[ ] Testimonials are showing default “Lorem Ipsum” posts still
+
+### (Safari Browser) Issue List:
+[ ] Images above “Site Map”, and “Vicinity Map” have a delay loading while first visiting the site
+[ ] Images below “Amenities” have a delay loading while first visiting the site
+[ ] Footer left side logo has sage equities box smaller logo size
+
 
  # Cleo 
 
@@ -506,6 +582,18 @@
 - [ ] Brand and privacy policy anchor tags are clickable and lead to the corresponding client contact sources 
 - [ ] Hover pointer animation occurs while hovering over anchor tags 
 
+### (Firefox Browser) Issue LIst:
 
+(Cleo Page)
+- [ ] Testimonials are showing default “Lorem Ipsum” posts still
+- [ ] Sign-up section is not showing description or the form to fill out
+- [ ] Footer Left side is not showing logo or anchor tags 
+- [ ] Font throughout page is showing at a heavier font weight
 
+### (Chrome Browser) Issue List:
+- [ ] Testimonials are showing default “Lorem Ipsum” posts still
+- [ ] Sign-up section is not showing description or the form to fill out
+
+### (Safari Browser) Issue List:
+- [ ] Footer left side logo has sage equities box smaller logo size
 
